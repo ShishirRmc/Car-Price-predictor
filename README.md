@@ -11,8 +11,6 @@ A machine learning project that predicts used car selling prices using multiple 
   </a>
 </div>
 
-*Replace `YOUR_VIDEO_LINK_HERE` with your actual video link*
-
 ## 🎯 Project Overview
 
 This project implements a comprehensive machine learning pipeline to predict used car selling prices based on various vehicle characteristics. The project leverages the power of Large Language Models (LLMs) to enhance data analysis and feature engineering decisions throughout the development process.
